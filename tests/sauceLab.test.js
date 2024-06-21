@@ -18,9 +18,7 @@ test.describe('Inventory Sorting', () => {
     await expect(page).toHaveURL('https://www.saucedemo.com/inventory.html');
   });
 
-  test.afterEach(async () => {
-    await page.close();
-  });
+
 
   test('should sort items by name (A -> Z)', async () => {
     await inventoryPage.sortByNameAsc();
