@@ -41,15 +41,3 @@ npx playwright show-report
 To run the test, make a push to the repository, and the pipeline will be triggered and start running automatically.
 To monitor or check the status of the pipeline runs, click on the **Actions** tab to see the workflow.
 
-### Author:
-
-| Name            | GitHub                | 
-| --------------  | ------------          | 
-| Samuel Ubong     samuelubong
-```
-
-
-
-
-
-```
