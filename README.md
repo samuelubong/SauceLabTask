@@ -4,7 +4,7 @@ The repository contains task for symphony recruitment.
 
 ## Pre-requisites:
 
-Node.js 14
+Node.js 18+
 
 ## Running Tests Locally
 
@@ -43,9 +43,9 @@ To monitor or check the status of the pipeline runs, click on the **Actions** ta
 
 ### Author:
 
-| Name           | GitHub       | 
-| -------------- | ------------ | 
-| Samuel Ubong     samuelubong
+| Name                    | GitHub          | 
+| --------------          | ------------    | 
+| Samuel Ubong                samuelubong
 ```
 
 ```
